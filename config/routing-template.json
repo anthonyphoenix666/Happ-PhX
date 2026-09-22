@@ -44,6 +44,7 @@
     "geosite:twitch-ads",
     "geosite:youtube",
     "geosite:telegram"
+    "geosite:instagram"
   ],
   "ProxyIp": [],
   "BlockSites": [
