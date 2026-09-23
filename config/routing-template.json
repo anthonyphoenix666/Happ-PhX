@@ -43,11 +43,11 @@
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
-    "geosite:telegram"
-    "geosite:instagram"
-    "geosite:whatsapp"
-    "geosite:tiktok"
-    "geosite:google-gemini"
+    "geosite:telegram",
+    "geosite:instagram",
+    "geosite:whatsapp",
+    "geosite:tiktok",
+    "geosite:google-gemini",
     "geosite:discord"
   ],
   "ProxyIp": [],
