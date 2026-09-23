@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/anthonyphoenix666/Happ-PhX@main/release/geosite.dat",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/anthonyphoenix666/Happ-PhX@main/release/geoip.dat",
-  "LastUpdated": "1790078966",
+  "LastUpdated": "1790148211",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
@@ -43,7 +43,12 @@
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
-    "geosite:telegram"
+    "geosite:telegram",
+    "geosite:instagram",
+    "geosite:whatsapp",
+    "geosite:tiktok",
+    "geosite:google-gemini",
+    "geosite:discord"
   ],
   "ProxyIp": [],
   "BlockSites": [
